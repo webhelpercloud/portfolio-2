@@ -4,6 +4,7 @@ body {
     font-size: 16px;
     font-family: "Kalam", cursive;
     font-weight: 400;
+    overflow-x: hidden;
 }
 
 .banner-container {
@@ -20,8 +21,7 @@ body {
 }
 
 #profile {
-    width: 500px;
-    height: 500px;
+    width: min(500px,55vw);
 }
 
 .social-links {
