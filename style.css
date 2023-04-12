@@ -21,11 +21,7 @@ body {
 }
 
 #profile {
-<<<<<<< HEAD
     width: min(500px,55vw,60vh);
-=======
-    width: min(500px,55vw);
->>>>>>> 5c8063d0ecbed2efca3212eb43fa84f28352ec8f
 }
 
 .social-links {
@@ -181,20 +177,10 @@ body {
     background-color: #F2F2FC;
 }
 
-<<<<<<< HEAD
-.project-card{
-    /* width: 33%; */
-}
-
 .project-container h2,
 .about-container .header {
     padding-top: 40px;
     font-size: 50px;
-=======
-.project-container h2 {
-    padding-top: 40px;
-    font-size: 40px;
->>>>>>> 5c8063d0ecbed2efca3212eb43fa84f28352ec8f
 }
 
 .contact-container h2{
