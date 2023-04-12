@@ -21,7 +21,7 @@ body {
 }
 
 #profile {
-    width: min(500px,55vw);
+    width: min(500px,55vw,60vh);
 }
 
 .social-links {
@@ -177,9 +177,10 @@ body {
     background-color: #F2F2FC;
 }
 
-.project-container h2 {
+.project-container h2,
+.about-container .header {
     padding-top: 40px;
-    font-size: 40px;
+    font-size: 50px;
 }
 
 .contact-container h2{
